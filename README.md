@@ -1,5 +1,5 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=cvrsve.cvrsve)
-
+<details>
 <summary>
   Projects I am currently working on
 </summary>
@@ -12,3 +12,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stocksmith&repo=ml-research)](https://github.com/stocksmith/ml-research)
 
 <br />
+</details>
